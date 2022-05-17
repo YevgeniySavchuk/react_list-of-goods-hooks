@@ -1,0 +1,2 @@
+body{background-color:#90ee90;color:#006400}.app{padding-top:20px;font-size:24px;text-align:center}.title{text-decoration:underline}.button-block{display:flex;flex-direction:row;grid-gap:20px;gap:20px;justify-content:center}.select,button{width:150px;height:50px;font-size:18px;font-weight:500;color:#006400;background-color:#90ee90;border:1px solid #006400;text-align:center}.select:hover,button:hover{background-color:#006400;color:#90ee90}.goods-list{list-style:none}.good{padding-top:10px;text-decoration:underline}
+/*# sourceMappingURL=main.414eb5aa.chunk.css.map */
